@@ -3,5 +3,7 @@ h1 {
 }
 
 h1:hover {
-    animation: pulse 0.5s ease-in infinite;
+    cursor: pointer;
+    background-color: green;
+    padding: 10px 200px;
 }
